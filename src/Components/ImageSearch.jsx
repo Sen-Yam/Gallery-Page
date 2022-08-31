@@ -8,7 +8,7 @@ const ImageSearch = ({NewSearch}) => {
     }
   
     
-  return ( ////
+  return ( ///
     <div className='Search'>
         <input type="text" placeholder='Enter a term of image...' className='input'
        onChange={(e)=> {
